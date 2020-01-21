@@ -6,3 +6,127 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",GLOBAL TV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS 7
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TRANS TV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INEWS
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+
+#EXTINF:-1 tvg-id="4c2f958f0b239f4721d18b87c42912f9" group-title="INDIHOME",INDOSIAR
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 tvg-id="effdd8733b4152f87f57d69579126dca" group-title="INDIHOME",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=9C3D6D1D9C2C7E17C88C34437A464C67A060160E&profile=pass
+
+#EXTINF:-1 tvg-id="88bc2041029adc1b4603be31339b16e4" group-title="INDIHOME",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
+
+#EXTINF:-1 tvg-id="b72498b4f3e893f18e989457613132a6" group-title="INDIHOME",AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=79046258DC0E930E01197AF56D3D1298958EEE07&profile=pass
+
+#EXTINF:-1 tvg-id="abd85a3324adf620079eaf75d8051e98" group-title="INDIHOME",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=3BC2042011CC9E27D38AF0DD54FB94B6A8DF5FEC&profile=pass
+
+#EXTINF:-1 tvg-id="2e2aa78411c4131a6bd63961dec28a9c" group-title="INDIHOME",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=C40949788D0E2EF033DFEB68D1304EF571EFEF56&profile=pass
+
+#EXTINF:-1 tvg-id="1bc079cdec765f993747d5bfb7e6ffc8" group-title="INDIHOME",Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=D8E336A68F41FF0719427512D203E63B86CBE811&profile=pass
+
+#EXTINF:-1 tvg-id="9836fd0e31a19540234d0fe226ec84af" group-title="INDIHOME",Cartoon Network
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
+
+#EXTINF:-1 tvg-id="7e3a3c8f65d96b33c7e7b25d8538fa8d" group-title="INDIHOME",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=F863A2D24BA5AAC3E655A82101050FA2CA0713C0&profile=pass
+
+#EXTINF:-1 tvg-id="ef8efee70c5cec1a5659a7315cd38e6d" group-title="INDIHOME",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=450BAA071EE56859DDFEAEB3CFD519D6B21D5A44&profile=pass
+
+#EXTINF:-1 tvg-id="18ab304fb5f71666923b59dc3a6612ea" group-title="INDIHOME",CNN International
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3A77BAE803C77F261879F637E4B795AB373D238F&profile=pass
+
+#EXTINF:-1 tvg-id="6013a944b7c00a19df095962b7a3e9ab" group-title="INDIHOME",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F81562F9A8DB635E8DE08CF5&profile=pass
+
+#EXTINF:-1 tvg-id="b2b8e381095ded22e60f47b7ffb1fa39" group-title="INDIHOME",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
+
+#EXTINF:-1 tvg-id="1898e5f1491a595474f3401d6021a161" group-title="INDIHOME",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass
+
+#EXTINF:-1 tvg-id="562a2ef4c0816c592d34d74efc55b35f" group-title="INDIHOME",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
+
+#EXTINF:-1 tvg-id="a6991a2d9e6d8198f94b3daf95f562f5" group-title="INDIHOME",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
+
+#EXTINF:-1 tvg-id="9ea370ce73cd5a22f3814b2e2ac02bbe" group-title="INDIHOME",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+
+#EXTINF:-1 tvg-id="de8e3602ee1be5612d6121b293501f99" group-title="INDIHOME",HBO HD
+http://203.153.218.28:9981/stream/channelid/37129950?ticket=DBCF024D9A3E4F58C90E2EBA7BB30FB700306650&profile=pass
+
+#EXTINF:-1 tvg-id="97187cf98cc3a3d2419955eea35c1bf5" group-title="INDIHOME",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+
+#EXTINF:-1 tvg-id="32105947315ce3717a05d57aa09ea673" group-title="INDIHOME",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass
+
+#EXTINF:-1 tvg-id="c2c6596f8e7796a5b4ecd8ea7cde9d74" group-title="INDIHOME",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=A6B5FCF4BEA85CDC157E4CF8DAE0FE22C9FA8432&profile=pass
+
+#EXTINF:-1 tvg-id="f1b77042d9150c7f066952c67e0f9480" group-title="INDIHOME",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=93B3188F4C61F26C880290A5E7E8072BDAB2EFF2&profile=pass
+
+#EXTINF:-1 tvg-id="3e8d42d985fbf1e7bf8c39df9c41c34f" group-title="INDIHOME",NAT GEO Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=2D019AA4C50D06BCA25385A8B8008DD56B192AEE&profile=pass
+
+#EXTINF:-1 tvg-id="9ba9a128eff02479da120a4226cd807c" group-title="INDIHOME",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=12D8BBF8329984DE39E83565970688314BBDFDE2&profile=pass
+
+#EXTINF:-1 tvg-id="6481ae2680f7ea45c5a379af51eefd44" group-title="INDIHOME",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
+
+#EXTINF:-1 tvg-id="14717dba4dc58041ef56ad458cda82bc" group-title="INDIHOME",Setanta Sports
+http://203.153.218.28:9981/stream/channelid/981299476?ticket=9F67BAE7020396371F181A7F5BFFBF9CB00BBC22&profile=pass
+
+#EXTINF:-1 tvg-id="f99f579721c84c855f9d08542171839c" group-title="INDIHOME",TLC
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=78F887BA5B832279E75370788BBE22D4FDD521CB&profile=pass
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="KIDS",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg" group-title="KIDS",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="KIDS",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
+#EXTINF:-1 tvg-logo="https://movies.chanelbanten.com/uploads/tv_image/ebs-kids.png" group-title="KIDS",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC",DANGDUT CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC",KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
+
