@@ -127,3 +127,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/chunklist_b22
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MUSIC",KARAOKE CHANNEL
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b420000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 1 ID HD
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 2 ID HD
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
