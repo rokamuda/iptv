@@ -22,14 +22,17 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1742067075_b384000_s
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="INDONESIA",  TRANS7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",INEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 
 #EXTINF:-1 tvg-id="4c2f958f0b239f4721d18b87c42912f9" group-title="INDIHOME",INDOSIAR
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE
+https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",TV ONE 2
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
